@@ -1,0 +1,69 @@
+[13/Jun/2017 22:00:16] "GET / HTTP/1.1" 200 1757
+[13/Jun/2017 22:00:17] "GET / HTTP/1.1" 200 1757
+[13/Jun/2017 22:00:17] "GET / HTTP/1.1" 200 1757
+[13/Jun/2017 22:00:17] "GET / HTTP/1.1" 200 1757
+[13/Jun/2017 22:00:18] "GET / HTTP/1.1" 200 1757
+[13/Jun/2017 22:00:18] "GET / HTTP/1.1" 200 1757
+[13/Jun/2017 22:00:18] "GET / HTTP/1.1" 200 1757
+[13/Jun/2017 22:00:25] "GET / HTTP/1.1" 200 1757
+[13/Jun/2017 22:00:25] "GET / HTTP/1.1" 200 1757
+[13/Jun/2017 22:00:25] "GET / HTTP/1.1" 200 1757
+Validating models...
+
+0 errors found
+June 13, 2017 - 22:00:00
+Django version 1.6.5, using settings 'web.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[13/Jun/2017 22:03:57] "GET / HTTP/1.1" 200 1757
+Validating models...
+
+0 errors found
+June 13, 2017 - 22:03:53
+Django version 1.6.5, using settings 'web.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[13/Jun/2017 22:07:41] "GET / HTTP/1.1" 404 2009
+Validating models...
+
+0 errors found
+June 13, 2017 - 22:05:55
+Django version 1.6.5, using settings 'web.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[13/Jun/2017 22:08:39] "GET /blog/index HTTP/1.1" 301 0
+[13/Jun/2017 22:08:39] "GET /blog/index/ HTTP/1.1" 500 56274
+Validating models...
+
+0 errors found
+June 13, 2017 - 22:08:26
+Django version 1.6.5, using settings 'web.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[13/Jun/2017 22:09:40] "GET /blog/index/ HTTP/1.1" 200 21
+[13/Jun/2017 22:10:28] "GET / HTTP/1.1" 404 2008
+Validating models...
+
+0 errors found
+June 13, 2017 - 22:09:39
+Django version 1.6.5, using settings 'web.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[13/Jun/2017 22:24:28] "GET /blog/index/ HTTP/1.1" 500 81967
+[13/Jun/2017 22:25:22] "GET /blog/index/ HTTP/1.1" 500 57105
+Validating models...
+
+0 errors found
+June 13, 2017 - 22:19:16
+Django version 1.6.5, using settings 'web.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[13/Jun/2017 22:26:33] "GET /blog/index/ HTTP/1.1" 500 57135
+Validating models...
+
+0 errors found
+June 13, 2017 - 22:26:32
+Django version 1.6.5, using settings 'web.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[13/Jun/2017 22:26:57] "GET /blog/index/ HTTP/1.1" 200 39
